@@ -111,11 +111,11 @@ body {
   box-shadow: 0 1px 5px 1px #cccccc;
 }
 #menu-tile {
-  background: url('https://tse4.mm.bing.net/th?id=OIP.e7_G61ks-C1PsMqcw0MzXQHaEZ&pid=Api&P=0&w=306&h=183') no-repeat;
+  background: url('') no-repeat;
   background-position: center;
 }
 #specials-tile {
-  background: url('https://tse1.mm.bing.net/th?id=OIP.KM6ItAwt5gqybWRJlSrGygHaE8&pid=Api&P=0&w=286&h=192') no-repeat;
+  background: url('') no-repeat;
   background-position: center;
 }
 #menu-tile span, #specials-tile span, #map-tile span {
@@ -132,7 +132,7 @@ body {
 }
 @media (min-width: 1200px) {
 	.jumbotron {
-		background: url('../main-1200.png') no-repeat;
+		background: url('') no-repeat;
 		height: 675px;
 		box-shadow: 0 0 50px #afafaf;
 		border:2px solid #afafaf;
@@ -157,7 +157,7 @@ body {
 		margin: 5px 5px 5px 0;
 	}
 	.jumbotron {
-		background: url('../main-992.png') no-repeat;
+		background: url('') no-repeat;
 		height: 558px;
 		box-shadow: 0 0 50px #afafaf;
 		border:2px solid #afafaf;
@@ -176,7 +176,7 @@ body {
 }
 @media (min-width: 768px) and (max-width: 991px) {
 	.jumbotron {
-		background: url('../main-768.png') no-repeat;
+		background: url('') no-repeat;
 		height: 432px;
 		box-shadow: 0 0 50px #afafaf;
 		border:2px solid #afafaf;
